@@ -1,0 +1,4 @@
+.env
+.vscode
+venv/
+PYREZ_LOG_FILE.log

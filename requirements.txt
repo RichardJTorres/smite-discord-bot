@@ -1,0 +1,4 @@
+pyrez
+discord
+python-envfile
+black
