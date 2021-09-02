@@ -2,3 +2,6 @@ pyrez
 discord
 python-envfile
 black
+pytest
+pytest-cov
+pytz

@@ -1,0 +1,301 @@
+[{
+  "description": "<li>The battle of Ragnarok is here and all the gods are gathered in Asgard. Bring your favorite god to this fight at the end of the world. <li>Map: Assault</li><li>Starting Cooldown Reduction:40%</li><li>Maximum Cooldown Reduction: 80%</li><li>Gods:All</li><li>Selection:All Pick (2 bans each team)</li></li>",
+  "gameMode": "ARAM- Asgard (2019)",
+  "maxPlayers": "",
+  "name": "All Out Assault 2.0",
+  "ret_msg": null,
+  "startDateTime": "9/8/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "All Out Assault 2.0"
+}, {
+  "description": "Take to the Siege map and try not to lose your lane because your teammate is busy defending theirs.<li>Map: Siege (2v2)</li><li>Gods: Owned</li><li>Selection: Blind Pick</li>",
+  "gameMode": "Siege",
+  "maxPlayers": "2",
+  "name": "Duel Siege",
+  "ret_msg": null,
+  "startDateTime": "9/7/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Duel Siege"
+}, {
+  "description": "<li>All bets are off in a furious Conquest match. A random god is assigned to everyone, but everyone starts the match with 100,000 gold. Spend your way to victory before the enemy can adapt!<li>Map: Conquest</li><li>Starting Cooldown Reduction:40%</li><li>Maximum Cooldown Reduction: 80%</li><li>Infinite Mana</li><li>Starting Level:3</li><li>Gods :All</li><li>Selection: Random</li>\t</li>",
+  "gameMode": "Season 8 Conquest 8R7",
+  "maxPlayers": "",
+  "name": "Grab Bag 2.0",
+  "ret_msg": null,
+  "startDateTime": "9/6/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Grab Bag 2.0"
+}, {
+  "description": "Fire abilities at will in this frantic MOTD where all your Abilities have a greatly reduced Cooldown!<li>Map: Arena</li><li>Infinite Mana</li><li>Starting/Maximum Cooldown Reduction: 75% (no use in stacking more CDR)</li><li>Starting Level:20</li><li>Starting Gold:100,000</li><li>Gods: All</li><li>Selection: Random</li>",
+  "gameMode": "Arena_V3",
+  "maxPlayers": "",
+  "name": "Cooldowns Runneth Over",
+  "ret_msg": null,
+  "startDateTime": "9/5/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Cooldowns Runneth Over"
+}, {
+  "description": "The gods have tapped into a resource of unlimited power, and have decided to test it out in Asgard. Pick your dream team, and cast abilities to your hearts content as all of the costs have been removed.<li>Map: Assault</li><li>Infinite Mana</li><li>Gods:All</li><li>Selection:All Pick (3 bans per team)</li>",
+  "gameMode": "ARAM- Asgard (2019)",
+  "maxPlayers": "",
+  "name": "Infinite Assault",
+  "ret_msg": null,
+  "startDateTime": "9/4/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Infinite Assault"
+}, {
+  "description": "<li>Pick the best team you can in this high powered matchup.<li>Map: Conquest</li><li>Starting/Maximum Cooldown Reduction:80%</li><li>Infinite Mana</li><li>Gods: All</li><li>Selection:Draft/Ban</li></li>",
+  "gameMode": "Season 8 Conquest 8R7",
+  "maxPlayers": "",
+  "name": "Omnipotent Draft",
+  "ret_msg": null,
+  "startDateTime": "9/3/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Omnipotent Draft"
+}, {
+  "description": "Wait, what!? Who is that! <li>Map: Assault </li><li>Gods: Random (Team 1) / Morrigan (Team 2)</li>",
+  "gameMode": "ARAM- Asgard (2019)",
+  "maxPlayers": "",
+  "name": "Paranoia",
+  "ret_msg": null,
+  "startDateTime": "9/2/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "2226",
+  "title": "Paranoia"
+}, {
+  "description": "Take over the Arena with a random god and pockets full of gold.",
+  "gameMode": "Arena_V3",
+  "maxPlayers": "",
+  "name": "All In Arena",
+  "ret_msg": null,
+  "startDateTime": "9/1/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "All In Arena"
+}, {
+  "description": "Join in holy Smiterimony and fight by your partner till death in this 2v2 Assault match.<li>Map: Assault (2v2)</li><li>Gods: All</li><li>Selection: True Random</li><li>No Trading or Rerolls</li>",
+  "gameMode": "ARAM- Asgard (2019)",
+  "maxPlayers": "2",
+  "name": "Till Death",
+  "ret_msg": null,
+  "startDateTime": "8/31/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Till Death"
+}, {
+  "description": "<li>All bets are off in a furious Conquest match. A random god is assigned to everyone, but everyone starts the match with 100,000 gold. Spend your way to victory before the enemy can adapt!<li>Map: Conquest</li><li>Starting Cooldown Reduction:40%</li><li>Maximum Cooldown Reduction: 80%</li><li>Infinite Mana</li><li>Starting Level:3</li><li>Gods :All</li><li>Selection: Random</li>\t</li>",
+  "gameMode": "Season 8 Conquest 8R7",
+  "maxPlayers": "",
+  "name": "Grab Bag 2.0",
+  "ret_msg": null,
+  "startDateTime": "8/30/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Grab Bag 2.0"
+}, {
+  "description": "Fire abilities at will in this frantic MOTD where all your Abilities have a greatly reduced Cooldown!<li>Map: Arena</li><li>Infinite Mana</li><li>Starting/Maximum Cooldown Reduction: 75% (no use in stacking more CDR)</li><li>Starting Level:20</li><li>Starting Gold:100,000</li><li>Gods: All</li><li>Selection: Random</li>",
+  "gameMode": "Arena_V3",
+  "maxPlayers": "",
+  "name": "Cooldowns Runneth Over",
+  "ret_msg": null,
+  "startDateTime": "8/29/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Cooldowns Runneth Over"
+}, {
+  "description": "The gods have tapped into a resource of unlimited power, and have decided to test it out in Asgard. Pick your dream team, and cast abilities to your hearts content as all of the costs have been removed.<li>Map: Assault</li><li>Infinite Mana</li><li>Gods:All</li><li>Selection:All Pick (3 bans per team)</li>",
+  "gameMode": "ARAM- Asgard (2019)",
+  "maxPlayers": "",
+  "name": "Infinite Assault",
+  "ret_msg": null,
+  "startDateTime": "8/28/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Infinite Assault"
+}, {
+  "description": "The Gods have reached their maximum power and now battle for ultimate control of Olympus.<li>Map: Conquest</li><li>Starting Level:5</li><li>Starting/Maximum Cooldown Reduction:80%</li><li>Infinite Mana</li><li>Gods: Owned</li><li>Selection: Blind Pick</li>",
+  "gameMode": "Season 8 Conquest 8R7",
+  "maxPlayers": "",
+  "name": "Omnipotence",
+  "ret_msg": null,
+  "startDateTime": "8/27/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Omnipotence"
+}, {
+  "description": "The Doggos have come to decide who is the goodest boy <li>Arena <li>Dog Gods </li>",
+  "gameMode": "Arena_V3",
+  "maxPlayers": "",
+  "name": "Battleground of the Dogs",
+  "ret_msg": null,
+  "startDateTime": "8/26/2021 9:00:00 AM",
+  "team1GodsCSV": "1668, 3419, 2138, 1843, 1988, 2107",
+  "team2GodsCSV": "1668, 3419, 2138, 1843, 1988, 2107",
+  "title": "Battleground of the Dogs"
+}, {
+  "description": "<li>The battle of Ragnarok is here and all the gods are gathered in Asgard. Bring your favorite god to this fight at the end of the world. <li>Map: Assault</li><li>Starting Cooldown Reduction:40%</li><li>Maximum Cooldown Reduction: 80%</li><li>Gods:All</li><li>Selection:All Pick (2 bans each team)</li></li>",
+  "gameMode": "ARAM- Asgard (2019)",
+  "maxPlayers": "",
+  "name": "All Out Assault 2.0",
+  "ret_msg": null,
+  "startDateTime": "8/25/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "All Out Assault 2.0"
+}, {
+  "description": "Join the queue with your best friend, or queue alone to make a new friend, because it\u2019ll just be the two of you holding the lane.<li>Map:Joust (2v2)</li><li>Selection: Blind (6 bans)</li>",
+  "gameMode": "Classic Joust Return",
+  "maxPlayers": "2",
+  "name": "Joust the two of us",
+  "ret_msg": null,
+  "startDateTime": "8/24/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Joust the two of us"
+}, {
+  "description": "<li>All bets are off in a furious Conquest match. A random god is assigned to everyone, but everyone starts the match with 100,000 gold. Spend your way to victory before the enemy can adapt!<li>Map: Conquest</li><li>Starting Cooldown Reduction:40%</li><li>Maximum Cooldown Reduction: 80%</li><li>Infinite Mana</li><li>Starting Level:3</li><li>Gods :All</li><li>Selection: Random</li>\t</li>",
+  "gameMode": "Season 8 Conquest 8R7",
+  "maxPlayers": "",
+  "name": "Grab Bag 2.0",
+  "ret_msg": null,
+  "startDateTime": "8/23/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Grab Bag 2.0"
+}, {
+  "description": "Fire abilities at will in this frantic MOTD where all your Abilities have a greatly reduced Cooldown!<li>Map: Arena</li><li>Infinite Mana</li><li>Starting/Maximum Cooldown Reduction: 75% (no use in stacking more CDR)</li><li>Starting Level:20</li><li>Starting Gold:100,000</li><li>Gods: All</li><li>Selection: Random</li>",
+  "gameMode": "Arena_V3",
+  "maxPlayers": "",
+  "name": "Cooldowns Runneth Over",
+  "ret_msg": null,
+  "startDateTime": "8/22/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Cooldowns Runneth Over"
+}, {
+  "description": "The gods have tapped into a resource of unlimited power, and have decided to test it out in Asgard. Pick your dream team, and cast abilities to your hearts content as all of the costs have been removed.<li>Map: Assault</li><li>Infinite Mana</li><li>Gods:All</li><li>Selection:All Pick (3 bans per team)</li>",
+  "gameMode": "ARAM- Asgard (2019)",
+  "maxPlayers": "",
+  "name": "Infinite Assault",
+  "ret_msg": null,
+  "startDateTime": "8/21/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Infinite Assault"
+}, {
+  "description": "The Gods have reached their maximum power and now battle for ultimate control of Olympus.<li>Map: Conquest</li><li>Starting Level:5</li><li>Starting/Maximum Cooldown Reduction:80%</li><li>Infinite Mana</li><li>Gods: Owned</li><li>Selection: Blind Pick</li>",
+  "gameMode": "Season 8 Conquest 8R7",
+  "maxPlayers": "",
+  "name": "Omnipotence",
+  "ret_msg": null,
+  "startDateTime": "8/20/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Omnipotence"
+}, {
+  "description": "<li>To battle everyone! Oh no, looks like someone didn\u2019t connect. Wait, I guess some people took the day off because there\u2019s only three people per team in this sped up conquest match.<li>Map: Conquest (3v3)</li><li>Increased XP and Gold Spooling</li><li>Gods: All</li><li>Selection: Blind Pick</li>",
+  "gameMode": "Season 8 Conquest 8R7",
+  "maxPlayers": "3",
+  "name": "Shorthanded",
+  "ret_msg": null,
+  "startDateTime": "8/19/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Shorthanded"
+}, {
+  "description": "Take over the Arena with a random god and pockets full of gold.",
+  "gameMode": "Arena_V3",
+  "maxPlayers": "",
+  "name": "All In Arena",
+  "ret_msg": null,
+  "startDateTime": "8/18/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "All In Arena"
+}, {
+  "description": "Take to the Siege map and try not to lose your lane because your teammate is busy defending theirs.<li>Map: Siege (2v2)</li><li>Gods: Owned</li><li>Selection: Blind Pick</li>",
+  "gameMode": "Siege",
+  "maxPlayers": "2",
+  "name": "Duel Siege",
+  "ret_msg": null,
+  "startDateTime": "8/17/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Duel Siege"
+}, {
+  "description": "<li>All bets are off in a furious Conquest match. A random god is assigned to everyone, but everyone starts the match with 100,000 gold. Spend your way to victory before the enemy can adapt!<li>Map: Conquest</li><li>Starting Cooldown Reduction:40%</li><li>Maximum Cooldown Reduction: 80%</li><li>Infinite Mana</li><li>Starting Level:3</li><li>Gods :All</li><li>Selection: Random</li>\t</li>",
+  "gameMode": "Season 8 Conquest 8R7",
+  "maxPlayers": "",
+  "name": "Grab Bag 2.0",
+  "ret_msg": null,
+  "startDateTime": "8/16/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Grab Bag 2.0"
+}, {
+  "description": "Fire abilities at will in this frantic MOTD where all your Abilities have a greatly reduced Cooldown!<li>Map: Arena</li><li>Infinite Mana</li><li>Starting/Maximum Cooldown Reduction: 75% (no use in stacking more CDR)</li><li>Starting Level:20</li><li>Starting Gold:100,000</li><li>Gods: All</li><li>Selection: Random</li>",
+  "gameMode": "Arena_V3",
+  "maxPlayers": "",
+  "name": "Cooldowns Runneth Over",
+  "ret_msg": null,
+  "startDateTime": "8/15/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Cooldowns Runneth Over"
+}, {
+  "description": "The gods have tapped into a resource of unlimited power, and have decided to test it out in Asgard. Pick your dream team, and cast abilities to your hearts content as all of the costs have been removed.<li>Map: Assault</li><li>Infinite Mana</li><li>Gods:All</li><li>Selection:All Pick (3 bans per team)</li>",
+  "gameMode": "ARAM- Asgard (2019)",
+  "maxPlayers": "",
+  "name": "Infinite Assault",
+  "ret_msg": null,
+  "startDateTime": "8/14/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Infinite Assault"
+}, {
+  "description": "<li>Pick the best team you can in this high powered matchup.<li>Map: Conquest</li><li>Starting/Maximum Cooldown Reduction:80%</li><li>Infinite Mana</li><li>Gods: All</li><li>Selection:Draft/Ban</li></li>",
+  "gameMode": "Season 8 Conquest 8R7",
+  "maxPlayers": "",
+  "name": "Omnipotent Draft",
+  "ret_msg": null,
+  "startDateTime": "8/13/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Omnipotent Draft"
+}, {
+  "description": "Wait, what!? Who is that! <li>Map: Assault </li><li>Gods: Random (Team 1) / Morrigan (Team 2)</li>",
+  "gameMode": "ARAM- Asgard (2019)",
+  "maxPlayers": "",
+  "name": "Paranoia",
+  "ret_msg": null,
+  "startDateTime": "8/12/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "2226",
+  "title": "Paranoia"
+}, {
+  "description": "<li>The battle of Ragnarok is here and all the gods are gathered in Asgard. Bring your favorite god to this fight at the end of the world. <li>Map: Assault</li><li>Starting Cooldown Reduction:40%</li><li>Maximum Cooldown Reduction: 80%</li><li>Gods:All</li><li>Selection:All Pick (2 bans each team)</li></li>",
+  "gameMode": "ARAM- Asgard (2019)",
+  "maxPlayers": "",
+  "name": "All Out Assault 2.0",
+  "ret_msg": null,
+  "startDateTime": "8/11/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "All Out Assault 2.0"
+}, {
+  "description": "Join in holy Smiterimony and fight by your partner till death in this 2v2 Assault match.<li>Map: Assault (2v2)</li><li>Gods: All</li><li>Selection: True Random</li><li>No Trading or Rerolls</li>",
+  "gameMode": "ARAM- Asgard (2019)",
+  "maxPlayers": "2",
+  "name": "Till Death",
+  "ret_msg": null,
+  "startDateTime": "8/10/2021 9:00:00 AM",
+  "team1GodsCSV": "",
+  "team2GodsCSV": "",
+  "title": "Till Death"
+}]

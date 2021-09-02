@@ -2,3 +2,4 @@
 .vscode
 venv/
 PYREZ_LOG_FILE.log
+__pycache__
