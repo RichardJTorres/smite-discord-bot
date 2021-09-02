@@ -1,2 +1,5 @@
 fmt:
-	@black . *.py
+	@black . 
+
+test:
+	@python -m unittest
