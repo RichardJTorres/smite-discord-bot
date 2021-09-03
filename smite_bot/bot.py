@@ -32,19 +32,19 @@ async def motd(ctx: commands.Context):
     except ServiceUnavailable as e:
         return await ctx.send(str(e))
 
-    today = datetime.date.today()
-    previous = None
-    for motd in motds:
-        parsed = parse_motd(motd.description)
+    today = datetime.datetime.utcnow().date()
+
+    for i, motd in enumerate(motds):
         start_date = parse_timestamp(motd.startDateTime)
         if start_date.date() == today:
             if not datetime.datetime.utcnow().time() > start_date.time():
-                motd = previous
+                motd = motds[i+1]
+            parsed = parse_motd(motd.description)
             embed = Embed(title=f"{motd.title}", description=parsed.pop("description"))
             for k, v in parsed.items():
                 embed.add_field(name=k, value=v, inline=False)
-            await ctx.send(embed=embed)
-        previous = motd
+            return await ctx.send(embed=embed)
+
 
 
 @bot.command(name="player-matches")
