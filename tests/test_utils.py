@@ -1,5 +1,5 @@
-import os
 import json
+import os
 from unittest import TestCase
 
 from smite_bot.utils import parse_motd

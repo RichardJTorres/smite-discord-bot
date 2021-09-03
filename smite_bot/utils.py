@@ -1,7 +1,9 @@
 import datetime
+
 import pytz
 
 DATE_FORMAT = "%m/%d/%Y %H:%M:%S %p"
+
 
 def parse_motd(input: str) -> dict:
     parts = input.split("<li>")
@@ -21,6 +23,7 @@ def parse_motd(input: str) -> dict:
 
 def parse_timestamp(input: str) -> datetime.datetime:
     return datetime.datetime.strptime(input, DATE_FORMAT)
+
 
 def datetime_to_preferred_tz(input: datetime.datetime, tz: str) -> datetime.datetime:
     if tz == "UTC":

@@ -1,13 +1,14 @@
-import os
 import datetime
+import os
+import time
 
 from discord import Embed
 from discord.ext import commands
 from dotenv import load_dotenv
 from pyrez.api import SmiteAPI
 from pyrez.exceptions import ServiceUnavailable
-
-from utils import parse_motd, parse_timestamp, datetime_to_preferred_tz, DATE_FORMAT
+from utils import (DATE_FORMAT, datetime_to_preferred_tz, parse_motd,
+                   parse_timestamp)
 
 load_dotenv()
 
@@ -33,14 +34,18 @@ async def motd(ctx: commands.Context):
         return await ctx.send(str(e))
 
     today = datetime.date.today()
+    previous = None
     for motd in motds:
         parsed = parse_motd(motd.description)
         start_date = parse_timestamp(motd.startDateTime)
         if start_date.date() == today:
+            if not datetime.datetime.now().time() > start_date.time():
+                motd = previous
             embed = Embed(title=f"{motd.title}", description=parsed.pop("description"))
             for k, v in parsed.items():
                 embed.add_field(name=k, value=v, inline=False)
             await ctx.send(embed=embed)
+        previous = motd
 
 
 @bot.command(name="player-matches")
@@ -59,7 +64,9 @@ async def player_match_history(ctx: commands.Context, player_name: str, count: i
         message += f"Queue: {match.queue}\n"
         message += f"K/D/A: {match.kills}/{match.deaths}/{match.assists} {kd_emoji}\n"
         message += f"Total Time (In Minutes): {match.matchMinutes}\n"
-        preferred_time = datetime_to_preferred_tz(parse_timestamp(match.matchTime), PREFERRED_TZ)
+        preferred_time = datetime_to_preferred_tz(
+            parse_timestamp(match.matchTime), PREFERRED_TZ
+        )
         message += f"Match Time: {preferred_time.strftime(DATE_FORMAT)}"
         embed.add_field(name=f"Match {i+1}", value=message, inline=False)
 
