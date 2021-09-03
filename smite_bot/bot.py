@@ -38,7 +38,7 @@ async def motd(ctx: commands.Context):
         parsed = parse_motd(motd.description)
         start_date = parse_timestamp(motd.startDateTime)
         if start_date.date() == today:
-            if not datetime.datetime.now().time() > start_date.time():
+            if not datetime.datetime.utcnow().time() > start_date.time():
                 motd = previous
             embed = Embed(title=f"{motd.title}", description=parsed.pop("description"))
             for k, v in parsed.items():
