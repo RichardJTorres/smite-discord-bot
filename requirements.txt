@@ -1,6 +1,6 @@
 pyrez
 discord
-python-envfile
+python-dotenv
 black
 pytest
 pytest-cov
