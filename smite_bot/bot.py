@@ -1,14 +1,13 @@
-import datetime
 import os
-import time
+import datetime
 
 from discord import Embed
 from discord.ext import commands
 from dotenv import load_dotenv
 from pyrez.api import SmiteAPI
 from pyrez.exceptions import ServiceUnavailable
-from utils import (DATE_FORMAT, datetime_to_preferred_tz, parse_motd,
-                   parse_timestamp)
+
+from utils import parse_motd, parse_timestamp, datetime_to_preferred_tz, DATE_FORMAT
 
 load_dotenv()
 
